@@ -18,7 +18,7 @@ Anticverse is a philosophy-based informatics labs that works with meta-archetype
 
 Some of the projects developed or supported under this organization:
 
-- **RPG Hard-core Adventure Sci-Fi PC Game - Corpus Orphicum:** Corphus Orphicum series presents an alternative historical narrative that is reduced to the surface of inquiry based on theology and philosophy. At the same time, it centralizes this narrative of history with mythological references and theological allusions in the science-fiction theme. The series is being developed under the leadership of Emirhan Güngörmez as part of the Lodom Creations Ecol.
+- **RPG Hard-core Adventure Sci-Fi PC Game - Corpus Orphicum:** Corphus Orphicum series presents an alternative historical narrative that is reduced to the surface of inquiry based on theology and philosophy. At the same time, it centralizes this narrative of history with mythological references and theological allusions in the science-fiction theme.
   - More [information](https://www.instagram.com/corpusorphicum/). 
 
 - **lodom.com:** The project where the Lodom Creations corporate website was developed.
