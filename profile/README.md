@@ -8,11 +8,12 @@ Anticverse is a philosophy-based informatics labs that works with meta-archetype
 
 ### Team Members
 
-- **Emirhan Güngörmez** - *Founder/Developer*: R&D Manager, [GitHub](https://github.com/emirhangungormez)
-- **Eren Güngörmez** - *Founder/Developer*: Description or responsibilities, [GitHub](https://github.com/erengungormez)
-- **Öznur Özsoy** - *Senior Designer*: 3D Artist, [Behance](https://www.behance.net/znurzsoy)
-- **Yasin Erhan** - *Junoir Designer*: 3D Artist, [LinkedIn](https://www.linkedin.com/in/yasin-erhan/)
-- **Mehmet Can** - *Senior Designer*: 2D Artist, [Linktr](https://linktr.ee/canframe)
+- **Emirhan Güngörmez** - *R&D Manager/Indie Developer*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
+- **Eren Güngörmez** - *Indie Developer*: Unreal Engine 5 & Unity / [GitHub](https://github.com/erengungormez)
+- **Öznur Özsoy** - *Senior Designer*: Blender, Illustrator / [Behance](https://www.behance.net/znurzsoy)
+- **Yasin Erhan** - *Junoir Designer*: Blender / [LinkedIn](https://www.linkedin.com/in/yasin-erhan/)
+- **Mehmet Can** - *Senior Designer*: Figma, Photoshop, Illustrator / [Linktr](https://linktr.ee/canframe)
+- **Hanife ----** - *Developer*: Unreal Engine 5 / [Linktr]()
 
 ## Projects
 
