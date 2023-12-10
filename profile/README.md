@@ -21,10 +21,10 @@ Some of the projects developed or supported under this organization:
 - **RPG Hard-core Adventure Sci-Fi PC Game - Corpus Orphicum:** Corphus Orphicum series presents an alternative historical narrative that is reduced to the surface of inquiry based on theology and philosophy. At the same time, it centralizes this narrative of history with mythological references and theological allusions in the science-fiction theme. Corphus Orphicum offers users a new and mysterious understanding of the universe. The entire scenario adopts the principle of progress based on exploration by keeping the desire for adventure necessary. Within the principles of gamification, the development of the series' games is planned in the circle of time-space differences.
 
 The series is being developed under the leadership of Emirhan Güngörmez as part of the Lodom Creations Ecol.
-// More [information](https://www.instagram.com/corpusorphicum/). 
+* More [information](https://www.instagram.com/corpusorphicum/). 
 
 - **lodom.com:** The project where the Lodom Creations corporate website was developed.
-  - Project [link](https://github.com/anticverse/lodom).
+* Project [link](https://github.com/anticverse/lodom).
 
 ## Contact
 
