@@ -13,7 +13,7 @@ Anticverse is a philosophy-based informatics labs that works with meta-archetype
 - **Öznur Özsoy** - *Senior Designer*: Blender, Illustrator / [Behance](https://www.behance.net/znurzsoy)
 - **Yasin Erhan** - *Junoir Designer*: Blender / [LinkedIn](https://www.linkedin.com/in/yasin-erhan/)
 - **Mehmet Can** - *Senior Designer*: Figma, Photoshop, Illustrator / [Linktr](https://linktr.ee/canframe)
-- **Hanife ----** - *Developer*: Unreal Engine 5 / [Linktr]()
+- **Hanife Yılmaz** - *Developer*: Unreal Engine 5 / [Github](https://github.com/MTMLYNX)
 
 ## Projects
 
