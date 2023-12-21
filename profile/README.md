@@ -31,6 +31,6 @@ Some of the projects developed or supported under this organization:
 
 Contact Us:
 
-- Email: [info@anticverse.com](mailto:info@anticverse.com)
+- Email: [anticverse.tech@gmail.com](mailto:anticverse.tech@gmail.com)
 - Twitter: [@anticverse](https://twitter.com/anticverse)
 - Instagram: [@anticverse](https://www.instagram.com/anticverse/)
