@@ -5,6 +5,7 @@
 Anticverse is a philosophy-based informatics labs that works with meta-archetypes of technologies. The company of the future that builds and studies web development, artificial intelligence, blockchain technologies, virtual reality, and game development of myths for different purposes.
 
 i: Lodom Creations Game Studio is part of our lodge and technology team.
+<br>
 ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology team.
 
 ## Lodge Introduction
