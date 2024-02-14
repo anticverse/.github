@@ -34,7 +34,7 @@ Some of the projects developed or supported under this organization:
   - Project [link](https://github.com/anticverse/lodom).
 
 - **adastra.com:** The project where the Ad Astra corporate website was developed.
-  - Project [link](https://github.com/anticverse/lodom).
+  - Project [link](https://adastratr.com).
 
 ## Contact
 
