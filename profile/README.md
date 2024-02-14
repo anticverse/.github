@@ -22,7 +22,7 @@ ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology 
 - **Yasin Erhan** - *Junoir Designer*: Blender / [LinkedIn](https://www.linkedin.com/in/yasin-erhan/)
 - **Mehmet Can** - *Senior Designer*: Figma, Photoshop, Illustrator / [Linktr](https://linktr.ee/canframe)
 - **Hanife Yılmaz** - *Developer*: Unreal Engine 5 / [Github](https://github.com/MTMLYNX)
-- **Hamza Ferrahoğlu** - *Senior Developer*: Django, Backend / [Github](https://github.com/M)
+- **Hamza Ferrahoğlu** - *Senior Developer*: Django, Backend / [Github](https://github.com/npcHamza)
 
 ## Projects
 
