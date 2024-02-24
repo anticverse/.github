@@ -16,8 +16,8 @@ ii: Ad Astra Software and Information is part of our lodge and technology team.
 - **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
 
 #### Founder Co.
-> **Ad Astra Software and Information**
-> **Lodom Creations Studio**
+• **Ad Astra Software and Information**
+• **Lodom Creations Studio**
 
 #### Members
 - **Hasen Hüseyin Göçer** - *Prodcut Manager/CMO*: Unity / [LinkedIn](https://www.linkedin.com/in/hasengocer)
@@ -50,7 +50,7 @@ Some of the projects developed or supported under this organization:
 ### PoC (Proof of Concept)
 
 - **RPG Hard-core Adventure Sci-Fi PC Game - Corpus Orphicum:** Corphus Orphicum series presents an alternative historical narrative that is reduced to the surface of inquiry based on theology and philosophy. At the same time, it centralizes this narrative of history with mythological references and theological allusions in the science-fiction theme.
-  - More [information](https://www.instagram.com/corpusorphicum/).
+>  - More [information](https://www.instagram.com/corpusorphicum/).
  
 ### PoP (Proof of Product)
 
