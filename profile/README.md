@@ -55,22 +55,22 @@ Some of the projects developed or supported under this organization:
 ### PoP (Proof of Product)
 
 - **lodomcreations.com:** The project where the Lodom Creations corporate website was developed.
-  - Project [link](https://github.com/anticverse/lodom).
+>  - Project [link](https://github.com/anticverse/lodom).
 
 - **adastratr.com:** The project where the Ad Astra corporate website was developed.
-  - Project [link](https://adastratr.com).
+>  - Project [link](https://adastratr.com).
  
 - **volartr.com:** Volar Investment and Project Company aims to establish brand value and revamp its website.
-  - Project [link](https://volartr.com). 
+>  - Project [link](https://volartr.com). 
 
 - **kaunostravel.com:** Kaunos Travel company is planning to revamp its website and develop a web application to facilitate seamless management of all departmental operations.
-  - Project [link](https://kaunostravel.com).
+>  - Project [link](https://kaunostravel.com).
  
 - **arizacozum.com.tr:** The project where the Ad Astra corporate website was developed.
-  - Project [link](https://arizacozum.com.tr).
+>  - Project [link](https://arizacozum.com.tr).
  
 - **emirhangungormez.com:** For Emirhan Güngörmez, we offer personalized web design services to elevate their online presence and create a unique digital identity.
-  - Project [link](https://emirhangungormez.com).
+>  - Project [link](https://emirhangungormez.com).
 
 ## Contact
 
