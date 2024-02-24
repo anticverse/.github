@@ -6,7 +6,7 @@ Anticverse is a philosophy-based informatics labs that works with meta-archetype
 
 i: Lodom Creations Game Studio is part of our lodge and technology team.
 <br>
-ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology team.
+ii: Ad Astra Software and Information is part of our lodge and technology team.
 
 ## Lodge Introduction
 
@@ -16,8 +16,8 @@ ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology 
 - **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
 
 #### Founder Co.
-##### Ad Astra Software and Information
-##### Lodom Creations Studio
+> **Ad Astra Software and Information**
+> **Lodom Creations Studio**
 
 #### Members
 - **Hasen Hüseyin Göçer** - *Prodcut Manager/CMO*: Unity / [LinkedIn](https://www.linkedin.com/in/hasengocer)
@@ -31,9 +31,9 @@ ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology 
 - **Emre Güngörmez** - *Product Manager*: Marketing / [Mail](mailto:emre@adastratr.com)
 
 #### Partners
-- **Volar Investment** - [Website](https://www.volartr.com)
 - **Ad Astra Software and Information** - [Website](https://www.adastratr.com)
 - **Lodom Creations Studio** - [Website](https://anticverse.github.io/lodom)
+- **Volar Investment** - [Website](https://www.volartr.com)
 
 #### Network
 - **Volar Investment** - [Website](https://www.volartr.com)
