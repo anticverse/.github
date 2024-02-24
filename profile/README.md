@@ -39,10 +39,10 @@ ii: Ad Astra Yazılım ve Bilişim Ltd. Co. is part of our lodge and technology 
 - **Volar Investment** - [Website](https://www.volartr.com)
 - **Robimek Information Technologies** - [Website](https://www.robimek.com)
 - **PulseTRonics** - [Website](https://pulsetronics.com.tr)
-- **MAS Havacılık** - [Website](http://mashavacilik.com)
-- **Kuadron** - [Website](https://www.kuadron.com)
-- **Holyum Yazılım** - [Website](https://www.holyum.com/)
-- **Genç Girişimciyiz** - [Website](https://gencgirisimciyiz.com/)
+- **MAS Aviation** - [Website](http://mashavacilik.com)
+- **Kuadron Information and Technology** - [Website](https://www.kuadron.com)
+- **Holyum Software** - [Website](https://www.holyum.com/)
+- **Genç Girişimciyiz (ArGe)** - [Website](https://gencgirisimciyiz.com/)
 
 ## Projects
 Some of the projects developed or supported under this organization:
