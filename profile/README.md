@@ -16,7 +16,7 @@ ii: Ad Astra Software and Information is part of our lodge and technology team.
 - **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
 
 #### Founder Co.
-• **Ad Astra Software and Information**
+• **Ad Astra Software and Information** <br>
 • **Lodom Creations Studio**
 
 #### Members
